@@ -1,8 +1,7 @@
-git init
-	add
-	commit
-	push
-
+git init (make sure you are cd living in correct dir)
+	add (whatever file or . for dir)
+	commit -m "(whatever snarky thing you want)"
+	push origin master
 
 I am testing out keys DAY 6.
 
