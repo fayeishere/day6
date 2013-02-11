@@ -1,7 +1,3 @@
-puts "test3.rb"
-puts "lalala"
-print "mimimi"
-puts "editing this now"
-puts "editing for third time"
+WTF
 
 You've been hijacked!!!
