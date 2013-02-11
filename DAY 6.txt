@@ -9,3 +9,8 @@ I am testing out keys DAY 6.
 I'm making changes.
 
 Can you see me Faye?
+
+git init (make sure you are cd living in correct dir)
+	add (whatever file or . for dir)
+	commit -m "(whatever snarky thing you want)"
+	push origin master
