@@ -1,3 +1,9 @@
+git init
+	add
+	commit
+	push
+
+
 I am testing out keys DAY 6.
 
 I'm making changes.
